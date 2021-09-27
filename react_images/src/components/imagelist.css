@@ -1,0 +1,14 @@
+div.divider {
+	width: 100%;
+	height: 1px;
+	background-color: #90A4AE;
+	margin: 10px 0;
+}
+
+div.divider + div img.img {
+	max-width: 512px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: 10px;
+}
